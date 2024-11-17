@@ -21,7 +21,8 @@ Find the source code on GitHub: [ Project Repository](https://github.com/gebrie-
 ### Clone the Repository
 
 git clone https://github.com/gebrie-dev/intern-pro.git
-cd intern-pro
+
+  cd intern-pro
 
 Install Dependencies
 
