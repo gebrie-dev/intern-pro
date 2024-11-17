@@ -1,21 +1,28 @@
-## Setup Instructions
+Intern Pro
+A basic Node.js web server with routes for personalized responses, deployed and accessible online.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/basic-web-server.git
-   cd basic-web-server
-   Install dependencies:
-   ```
 
+Repository
+Find the source code on GitHub: https://github.com/gebrie-dev/intern-pro
+
+Setup Instructions
+Clone the Repository
+bash
+Copy code
+git clone https://github.com/gebrie-dev/intern-pro.git
+cd intern-pro
+Install Dependencies
 bash
 Copy code
 npm install
-Start the server:
+Start the Server
 
-bash
-Copy code
 npm start
-Routes
+The server will run on http://localhost:3100 .
+
+Live on
+Check out the live app here: 
+Features
 /name: Returns the full name as plain text.
-/hobby: Returns a JSON object with a description of the hobby.
-/dream: Returns a motivational message about the dream or goal.
+/hobby: Responds with a JSON object describing a hobby.
+/dream: Provides a motivational message about a goal or aspiration.
