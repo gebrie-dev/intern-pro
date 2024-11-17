@@ -21,16 +21,20 @@ Find the source code on GitHub: [ Project Repository](https://github.com/gebrie-
 ### Clone the Repository
 
 git clone https://github.com/gebrie-dev/intern-pro.git
-cd intern-pro
+
+  cd intern-pro
 
 Install Dependencies
 
 npm install
 
+
 Start the Server
 
 npm start
-The server will run on http://localhost:3100 .
+
+The server will run on
+http://localhost:3100 .
 
 Deployment
 The application is deployed using Render, making it accessible globally.
