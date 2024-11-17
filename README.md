@@ -26,6 +26,7 @@ cd intern-pro
 Install Dependencies
 
 npm install
+
 Start the Server
 
 npm start
@@ -33,8 +34,3 @@ The server will run on http://localhost:3100 .
 
 Deployment
 The application is deployed using Render, making it accessible globally.
-
-Endpoints
-/name: GET request will return the full name.
-/hobby: GET request will return a JSON object describing a hobby.
-/dream: GET request will return a motivational message.
