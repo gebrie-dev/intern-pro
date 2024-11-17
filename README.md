@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Intern Pro
 A basic Node.js web server with routes for personalized responses, deployed and accessible online.
 
@@ -26,3 +27,7 @@ Features
 /name: Returns the full name as plain text.
 /hobby: Responds with a JSON object describing a hobby.
 /dream: Provides a motivational message about a goal or aspiration.
+=======
+
+
+
