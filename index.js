@@ -15,7 +15,6 @@ app.get("/hobby", (req, res) => {
   });
 });
 
-// Route 3: /dream
 app.get("/dream", (req, res) => {
   res.send(
     "My dream is to become a skilled MERN stack developer and build a thriving software company."
