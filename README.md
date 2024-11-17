@@ -27,10 +27,13 @@ Install Dependencies
 
 npm install
 
+
 Start the Server
 
 npm start
-The server will run on http://localhost:3100 .
+
+The server will run on
+http://localhost:3100 .
 
 Deployment
 The application is deployed using Render, making it accessible globally.
