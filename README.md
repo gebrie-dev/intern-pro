@@ -8,7 +8,7 @@ A basic Node.js web server with routes for personalized responses, deployed and 
 - **/hobby**: Responds with a JSON object describing a hobby.
 - **/dream**: Provides a motivational message about a goal or aspiration.
 
-## Live Demo
+## Live project
 
 Check out the live app here: [live project](https://intern-pro-f5rz.onrender.com/)
 
