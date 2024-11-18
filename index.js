@@ -2,12 +2,11 @@ const express = require("express");
 const app = express();
 const port = process.env.PORT || 3100;
 
-// Route 1: /name
+
 app.get("/name", (req, res) => {
   res.send("Gebre Wagnew Mamay");
 });
 
-// Route 2: /hobby
 app.get("/hobby", (req, res) => {
   res.json({
     hobby:
@@ -21,7 +20,7 @@ app.get("/dream", (req, res) => {
   );
 });
 
-// Start the server
+
 app.listen(port, () => {
   console.log(`Server is running at http://localhost:${port}`);
 });
